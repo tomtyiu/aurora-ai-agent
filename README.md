@@ -6,10 +6,11 @@ Introducing a cutting-edge AI agent designed to automate tasks and elevate your 
 
 ## How to install
 ### Create a virtual environment
-python -m venv venv
+1. python -m venv venv
 
 ### Activate the virtual environment
-source venv/bin/activate
+2. source venv/bin/activate
 
 ### run the program
-python aiagentv1.py
+3. python aiagentv1.py
+
