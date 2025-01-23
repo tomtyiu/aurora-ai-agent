@@ -60,13 +60,20 @@ python aiagentv1-ollama.py
 ```
 
 ### Examples
-Input:
+Input: Go to Amazon and search for laptop
 ```bash
 Open Edge browser
 go to URL: http://amazon.com
 In Search for, type: laptop
 click on search
 and keep browser open
+```
+
+Input: Write notes using notepad
+
+```bash
+Open  Notepad
+Write to do list of groceries: bannanas, apples, eggs
 ```
 
 ##  🔒 Security & Privacy
