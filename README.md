@@ -43,6 +43,11 @@ source venv/bin/activate
 ### run the program
 ```bash
 python aiagentv1.py
+
+#or for ollama
+
+python aiagentv1-ollama.py
+
 ```
 
 ##  🔒 Security & Privacy
