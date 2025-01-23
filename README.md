@@ -21,10 +21,10 @@ Welcome to **Aurora AI Agent**—an intelligent, interactive program powered by 
 ```bash
  ollama run llama3.1
 ```
-5. **OpenAI model:** Make sure you have the **OpenAI Python library** installed:
+5. **OpenAI model:** Make sure you have the **OpenAI ,Selenium Python library** installed:
 
 ```bash
-   pip install openai
+   pip install openai selenium tkinter 
 ```
 
 Set Your OpenAI API Key as an environment variable:
