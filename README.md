@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/reworkd/AgentGPT/main/next/public/banner.png" height="300" alt="AgentGPT Logo"/>
+  <img src="https://github.com/tomtyiu/aurora-ai-agent/blob/main/aurora-agent.JPG" height="300" alt="AgentGPT Logo"/>
 </p>
 
 # Aurora AI Agent ✨🤖
