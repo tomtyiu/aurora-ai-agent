@@ -21,7 +21,7 @@ Welcome to **Aurora AI Agent**—an intelligent, interactive program powered by 
 ```bash
  ollama run llama3.1
 ```
-5. Make sure you have the **OpenAI Python library** installed:
+5. **OpenAI model** Make sure you have the **OpenAI Python library** installed:
 
 ```bash
    pip install openai
