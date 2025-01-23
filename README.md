@@ -17,7 +17,11 @@ Welcome to **Aurora AI Agent**—an intelligent, interactive program powered by 
 
 1. **Clone or Download** this repository to your local machine.
 2. **Install Python 3.7+** (if not already installed).  For local model: Install Ollama, **Ollama download** [link](https://ollama.com/download/windows)
-4. Make sure you have the **OpenAI Python library** installed:
+3. For Ollama, for quick start host model type:
+```bash
+ ollama run llama3.1
+```
+5. Make sure you have the **OpenAI Python library** installed:
 
 ```bash
    pip install openai
