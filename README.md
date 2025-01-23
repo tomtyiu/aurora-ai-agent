@@ -54,6 +54,8 @@ python aiagentv1-ollama.py
 
 ```
 
+### Examples
+
 ##  🔒 Security & Privacy
 
 This application uses your OpenAI API key. Keep it private and secure.
