@@ -6,7 +6,7 @@ Welcome to **Aurora AI Agent**—an intelligent, interactive program powered by 
 
 ## 📦 Features
 1. **Interactive GUI:** Easily enter text or instructions into a scrolled text box.
-2. **Automated Task:** Aurora AI Agent uses OpenAI’s powerful models to perform automated tasks
+2. **Automated Task:** Aurora AI Agent uses OpenAI’s powerful models(o1-mini) to perform automated tasks or ollama local run model.  (Default llama 3.1)
 3. **Local Execution:** Generated Python code is saved to a `.py` file and run locally—no complex setup required.
 4. **Customizable Appearance:** Change font family, size, text color, and background color to suit your preferences.
 5. **File Management:** Quickly open and save files with built-in file dialogs.
@@ -16,8 +16,8 @@ Welcome to **Aurora AI Agent**—an intelligent, interactive program powered by 
 ## 🚀 Getting Started
 
 1. **Clone or Download** this repository to your local machine.
-2. **Install Python 3.7+** (if not already installed).
-3. Make sure you have the **OpenAI Python library** installed:
+2. **Install Python 3.7+** (if not already installed) and **Ollama download** (link)[https://ollama.com/download/windows]
+4. Make sure you have the **OpenAI Python library** installed:
 
 ```bash
    pip install openai
@@ -25,7 +25,7 @@ Welcome to **Aurora AI Agent**—an intelligent, interactive program powered by 
 
 Set Your OpenAI API Key as an environment variable:
 ```bash
-Windows: set OPENAI_API_KEY=your_api_key
+Windows: set OPENAI_API_KEY=your_api_key or ollama do not require key
 macOS/Linux: export OPENAI_API_KEY=your_api_key
 ```
 
