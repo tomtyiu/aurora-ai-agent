@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reworkd/AgentGPT/main/next/public/banner.png" height="300" alt="AgentGPT Logo"/>
+</p>
+
 # Aurora AI Agent ✨🤖
 
 Welcome to **Aurora AI Agent**—an intelligent, interactive program powered by OpenAI! This tool allows you to conveniently enter text, generate Python code based on your input, and run it locally on your system. Enjoy a straightforward GUI built using Tkinter, complete with formatting and color customization. 🌈
