@@ -56,12 +56,13 @@ python aiagentv1-ollama.py
 
 ### Examples
 Input:
+```bash
 Open Edge browser
 go to URL: http://amazon.com
 In Search for, type: laptop
 click on search
 and keep browser open
-
+```
 
 ##  🔒 Security & Privacy
 
