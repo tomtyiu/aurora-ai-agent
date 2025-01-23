@@ -6,7 +6,7 @@ Welcome to **Aurora AI Agent**—an intelligent, interactive program powered by 
 
 ## 📦 Features
 1. **Interactive GUI:** Easily enter text or instructions into a scrolled text box.
-2. **Automated Task:** Aurora AI Agent uses OpenAI’s powerful models to produce Python code snippets based on your prompts.
+2. **Automated Task:** Aurora AI Agent uses OpenAI’s powerful models to perform automated tasks
 3. **Local Execution:** Generated Python code is saved to a `.py` file and run locally—no complex setup required.
 4. **Customizable Appearance:** Change font family, size, text color, and background color to suit your preferences.
 5. **File Management:** Quickly open and save files with built-in file dialogs.
