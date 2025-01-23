@@ -57,6 +57,6 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 
 ##  📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See LICENSE file for details
 
 Stay curious, code on, and have a great time exploring Aurora AI Agent! 🎉
