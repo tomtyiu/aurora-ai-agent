@@ -44,3 +44,19 @@ source venv/bin/activate
 ```bash
 python aiagentv1.py
 ```
+
+##  🔒 Security & Privacy
+
+This application uses your OpenAI API key. Keep it private and secure.
+
+Local Execution: The code runs on your local system, ensuring data remains under your control.
+
+##  🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request to help us improve this AI Agent.
+
+##  📄 License
+
+This project is licensed under the MIT License.
+
+Stay curious, code on, and have a great time exploring Aurora AI Agent! 🎉
