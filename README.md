@@ -76,6 +76,38 @@ Open  Notepad
 Write to do list of groceries: bannanas, apples, eggs
 ```
 
+Input: advance capability:
+```bash
+Open Edge browser
+go to URL: https://html5-editor.net/ 
+
+On left editor, copy and paste HTML to html5-editor
+Hello world!
+
+This is my first text. I need to see how it would look like when programmed with HTML.
+
+Some parts should be red.
+
+Some bold.
+
+Some italic.
+
+Some underlined.
+
+Until my lesson is complete, and we shift to the other side.
+
+edit the editor: 
+Hello world! should have header 2 applied
+The sentence below it should be a regular paragraph text.
+The sentence mentioning red should be normal text and red
+The sentence mentionnihg bold should be normal text bolded
+Sentence mentioning italic should be italicized
+The final sentence should be aligned to the right instead of the usual left
+
+and keep browser open
+```
+
+
 ##  🔒 Security & Privacy
 
 This application uses your OpenAI API key. Keep it private and secure.
