@@ -12,9 +12,10 @@ Welcome to **Aurora AI Agent**—an intelligent, interactive program powered by 
 ## 📦 Features
 1. **Interactive GUI:** Easily enter text or instructions into a scrolled text box.
 2. **Automated Task:** Aurora AI Agent uses OpenAI’s powerful models(o1-mini) to perform automated tasks (recommended) or ollama local run model.  (Default llama 3.1)
-3. **Local Execution:** Generated Python code is saved to a `.py` file and run locally—no complex setup required.
-4. **Customizable Appearance:** Change font family, size, text color, and background color to suit your preferences.
-5. **File Management:** Quickly open and save files with built-in file dialogs.
+3. **AI coding Agent** Aurora AI agent doesn't perform tasks, it also generate code and execute code for advance coding commands 
+4. **Local Execution:** Generated Python code is saved to a `.py` file and run locally—no complex setup required.
+5. **Customizable Appearance:** Change font family, size, text color, and background color to suit your preferences.
+6. **File Management:** Quickly open and save files with built-in file dialogs.
 
 ---
 
